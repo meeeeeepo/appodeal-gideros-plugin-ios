@@ -1,0 +1,1 @@
+# appodeal-gideros-plugin-ios
